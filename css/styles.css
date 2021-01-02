@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.box {
+	width: 270px;
+	height: 400px;
+	box-shadow: 0px 0px 7px 3px #F4939B;
+	text-align: center;
+	margin: 25px auto;
+	background-color: #FEE2DE;
+	border-radius: 7px;
+}
+
+.box-sub {
+	width: 270px;
+	/*height: 90px;*/
+	justify-content: center;
+	align-items: center;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	/*box-shadow: 0px 0px 10px 2px #F4939B;*/
+}
+
+p {
+	color: #705635;
+	font-size: 37px;
+	font-family: 'Yesteryear', cursive;
+	letter-spacing: 2px;
+	line-height: 1.1em;
+}
